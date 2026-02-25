@@ -130,8 +130,6 @@ Sistema → AdapterYape   → YapeDirectAPI (extrae teléfono, traduce respuesta
 ### Clonar y ejecutar
 
 ```bash
-git clone https://github.com/tu-usuario/gamestore-design-patterns.git
-cd gamestore-design-patterns
 python main.py
 ```
 
