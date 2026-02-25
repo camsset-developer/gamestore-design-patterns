@@ -127,7 +127,7 @@ Sistema → AdapterYape   → YapeDirectAPI (extrae teléfono, traduce respuesta
 - Python 3.10+
 - Sin dependencias externas
 
-### Clonar y ejecutar
+### Ejecutar
 
 ```bash
 python main.py
@@ -155,12 +155,7 @@ python main.py
 
 ---
 
-## 📚 Referencias
 
-- Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). *Design Patterns*. Addison-Wesley.
-- Refactoring.Guru. https://refactoring.guru/design-patterns
-
----
 
 ## 👩‍💻 Autor
 
